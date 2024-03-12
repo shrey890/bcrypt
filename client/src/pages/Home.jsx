@@ -63,7 +63,7 @@ const Home = () => {
                 />
             </div>
             <div className="flex justify-center mt-2">
-                <button className="btn btn-wide " onClick={handleSubmit}>
+                <button className="btn btn-lg btn-wide max-w-xs w-full m-2" onClick={handleSubmit}>
                     Register
                 </button>
             </div>
