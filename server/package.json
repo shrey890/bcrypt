@@ -2,6 +2,7 @@
 	"name": "x-notes",
 	"version": "1.0.0",
 	"description": "",
+  "start":"server.js",
 	"dependencies": {
 		"axios": "^1.6.7",
 		"bcrypt": "^5.1.1",
